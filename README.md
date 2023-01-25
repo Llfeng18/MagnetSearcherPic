@@ -60,5 +60,5 @@ if __name__ == "__main__":
 * 避免把网站爬崩，使用sleep延缓爬取速度
 * 仅用于学习测试
 * 大概爬了两小时的成果，估算全站有30G以上
-![img.png](img/img.png)
+![img.png](img.png)
 
